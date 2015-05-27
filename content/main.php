@@ -1,0 +1,3 @@
+<div>
+	<?php getContent(); ?> 
+</div>
